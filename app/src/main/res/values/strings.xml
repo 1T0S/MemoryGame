@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="play">Play</string>
+    <string name="instructions">Press buttons in correct order...</string>
+    <string name="wait">Wait</string>
+    <string name="press">Press buttons</string>
+    <string name="restart">Restart</string>
+</resources>
